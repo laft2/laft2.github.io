@@ -4,14 +4,14 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 module.exports = {
   mode: "development",
   entry: {
-    app: path.resolve(__dirname, "src/app.tsx"), // エントリーポイント修正
+    index: path.resolve(__dirname, "src/app.tsx"), // エントリーポイント修正
   },
   output: {
     path: path.resolve(__dirname, ""),
     filename: "[name].js",
   },
   resolve: {
-    modules: [path.resolve(__dirname, "node_modules")],
+    modules: [path.resolve(__dirname, "../../node_modules")],
     extensions: [".js", ".ts", ".tsx"], // ts, tsx 追加
   },
   module: {
@@ -20,7 +20,8 @@ module.exports = {
       use: [{
           loader: "babel-loader",
           options: {
-            presets: ["@babel/preset-env", "@babel/preset-react", "@babel/preset-typescript"], // typescript追加
+            presets: ["@babel/preset-env", "@babel/preset-react", "@babel/preset-typescript"],
+            plugins: ["babel-plugin-styled-components"]
           },
         },
         'ts-loader' // ts-loader追加

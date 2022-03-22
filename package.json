@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/laft2/githubio#readme",
   "dependencies": {
+    "babel-plugin-emotion": "^11.0.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",
@@ -29,6 +31,7 @@
     "@babel/runtime": "^7.17.2",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.13",
+    "@types/styled-components": "^5.1.24",
     "babel-loader": "^8.2.3",
     "html-webpack-plugin": "^5.5.0",
     "ts-loader": "^9.2.7",
