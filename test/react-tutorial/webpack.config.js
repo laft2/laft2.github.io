@@ -24,7 +24,7 @@ module.exports = {
             plugins: ["babel-plugin-styled-components"]
           },
         },
-        'ts-loader' // ts-loader追加
+        'ts-loader',
       ],
     }, ],
   },
@@ -33,4 +33,5 @@ module.exports = {
       template: path.resolve(__dirname, "src/index.html"),
     }),
   ],
+  devtool: "source-map"
 };
