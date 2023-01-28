@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: laft's portfolio
-    subtitle: "Master's student at Kyoto University"
+    subtitle: "A Master's student at Kyoto University"
     imageUrl: "https://github.com/laft2.png"
     imageWidth: 120
     imageHeight: 120
