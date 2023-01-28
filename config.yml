@@ -127,3 +127,5 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+ignoreFiles:
+- node_modules
