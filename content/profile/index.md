@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-date: 2023-01-28T20:13:55+09:00
+date: 2023-01-28T21:10:20+09:00
 draft: false
 ---
 
@@ -25,7 +25,16 @@ draft: false
     + [【インターンレポート】脆弱性管理システムにおける自動リグレッションテスト機能の追加](https://engineering.linecorp.com/ja/blog/internship2022-appsec-hirai)
     + アプリケーションセキュリティチームでインターンシップに参加
 
-## Activity
+## Activities
 + 競技プログラミング
     + AtCoder: [laft](https://atcoder.jp/users/laft)
     + CodeForces: [laft](https://codeforces.com/profile/laft)
++ ゲーム製作
+    + [東方蒼月闘](https://store.steampowered.com/app/1391710/_/)
+        + プログラマーとして参加。Unity, C#で実装。
+
+## Research
++ Masato Hirai, Daisuke Kotani and Yasuo Okabe
+Linking Contexts from Distinct Data Sources in Zero Trust Federation
+5th International Workshop on Emerging Technologies for Authorization and Authentication (Co-Located with ESORICS 2022), September 2022.
+    + https://link.springer.com/book/9783031254666
