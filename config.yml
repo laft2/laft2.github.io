@@ -111,7 +111,7 @@ menu:
       weight: 10
     - identifier: playground
       name: playground
-      url: /playground/index.md
+      url: /playground/
       weight: 20
     - identifier: example
       name: example.org
