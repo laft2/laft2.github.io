@@ -27,8 +27,8 @@ draft: false
 
 ## Activities
 + 競技プログラミング
-    + AtCoder: [laft](https://atcoder.jp/users/laft)
-    + CodeForces: [laft](https://codeforces.com/profile/laft)
+    [![laft](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Flaft)](https://atcoder.jp/users/laft)
+    [![laft](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Flaft)](https://codeforces.com/profile/laft)
 + ゲーム製作
     + [東方蒼月闘](https://store.steampowered.com/app/1391710/_/)
         + プログラマーとして参加。Unity, C#で実装。
