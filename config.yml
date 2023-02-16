@@ -74,6 +74,8 @@ params:
       url: "https://twitter.com/laft_kmc"
     - name: github
       url: "https://github.com/laft2"
+    - name: keybase
+      url: "https://keybase.io/laft"
 
   analytics:
     google:
