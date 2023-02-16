@@ -115,6 +115,10 @@ menu:
       name: playground
       url: /playground/
       weight: 20
+    - identifier: blog
+      name: blog
+      url: https://laft.hatenablog.com/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
