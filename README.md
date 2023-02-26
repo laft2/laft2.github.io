@@ -1,2 +1,3 @@
 # laft2.github.io
-for github pages
+For github pages.
+The pages are created by PaperMod, Hugo.
