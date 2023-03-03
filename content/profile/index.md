@@ -34,7 +34,7 @@ draft: false
         + プログラマーとして参加。Unity, C#で実装。
 
 ## Research
-+ Masato Hirai, Daisuke Kotani and Yasuo Okabe,  
-Linking Contexts from Distinct Data Sources in Zero Trust Federation
++ Masato Hirai, Daisuke Kotani and Yasuo Okabe  
+Linking Contexts from Distinct Data Sources in Zero Trust Federation  
 5th International Workshop on Emerging Technologies for Authorization and Authentication (Co-Located with ESORICS 2022), September 2022.
     + https://link.springer.com/book/9783031254666
